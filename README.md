@@ -74,7 +74,7 @@
   
 <p>Краткое описание решения - мною были использованы оконные функции для расчета скользящих средних<p>
 
-> <a href="https://drive.google.com/drive/folders/1QOk5AAh6x7jK_yHgfKI2sUFYR7AWUi5u">Ссылка на проект 4</a>
+> <a href="ПРОЕКТ 4 Построение витрины для модели машинного обучения в банке.xlsx>Ссылка на проект 4</a>
 
   
  <p>Выводы (итоги):<p>
@@ -94,7 +94,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект 5</a>
 
  
  <p>Выводы (итоги):<p>

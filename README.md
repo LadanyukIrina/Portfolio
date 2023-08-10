@@ -87,7 +87,7 @@
 
 <p>Краткое описание решения: мною были использованы CTE, cross, full и left join, оконные функции <p>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект 5</a>
+> <a href="ПРОЕКТ 5 Моделирование изменения балансов студентов.docx">Ссылка на проект 5</a>
 
  
  <p>Выводы (итоги):<p>

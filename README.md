@@ -98,4 +98,4 @@
 
 ## Контактная информация
 - Email: mk1234@yandex.ru
-- LinkedIn: https://www.linkedin.com/in/username/
+- LinkedIn: https://www.linkedin.com/in/ирина-ладанюк-a7222865/

@@ -46,7 +46,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a [href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://docs.google.com/spreadsheets/d/1kBSYNRhj3Umy4-VB-ezjLspeTZMl9LDQ/edit?usp=sharing&ouid=103968306765215420639&rtpof=true&sd=true)">Ссылка на проект 2</a>
+> <a [href="ПРОЕКТ 2 Калькулятор юнит-экономики кинотеатра.xlsx">Ссылка на проект 2</a>
  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
  
 <p>Выводы (итоги):<p>
